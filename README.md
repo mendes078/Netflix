@@ -1,2 +1,4 @@
 # netflix
-Este repositório contém um projeto de Análise Exploratória de Dados acerca de um dataset contendo séries e filmes da Netflix.
+
+Este repositório é composto por um projeto onde realizo uma Análise Exploratória de Dados simples acerca de um dataset contendo todos as séries e filmes lançadas na Netflix.
+
